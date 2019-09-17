@@ -1,5 +1,6 @@
 {
   "rst_exclude": [],
   "md_include": [
+    "appendix/Terminology.md"
   ]
 }
