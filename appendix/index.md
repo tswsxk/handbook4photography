@@ -8,9 +8,8 @@
     Terminology.md
     PS-Cheat-Sheet.md
     quicknote.md
-```
 
-```eval_rst
+.. toctree::
     :maxdepth: 2
 
     FAQ.md
