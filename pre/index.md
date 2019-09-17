@@ -4,6 +4,7 @@
 
 .. toctree::
     :maxdepth: 1
-
+    
+    basic.md
     Composition.md
 ```

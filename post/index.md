@@ -5,6 +5,8 @@
 .. toctree::
     :maxdepth: 1
 
-    Post-Processing.md
+    basic.md
+    PostProcessing.md
+    Toning.md
     Portrait.md
 ```

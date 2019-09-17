@@ -7,4 +7,11 @@
 
     Terminology.md
     PS-Cheat-Sheet.md
+    quicknote.md
+```
+
+```eval_rst
+    :maxdepth: 2
+
+    FAQ.md
 ```
