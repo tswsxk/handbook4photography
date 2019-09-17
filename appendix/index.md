@@ -5,6 +5,6 @@
 .. toctree::
     :maxdepth: 1
 
-    Teminology.md
+    Terminology.md
     PS-Cheat-Sheet.md
 ```
