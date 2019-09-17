@@ -8,9 +8,4 @@
     Terminology.md
     PS-Cheat-Sheet.md
     quicknote.md
-
-.. toctree::
-    :maxdepth: 2
-
-    FAQ.md
 ```

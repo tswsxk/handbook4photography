@@ -14,6 +14,12 @@
     :maxdepth: 2
 
     appendix/index.md
+
+.. toctree::
+    :maxdepth: 2
+    :numbered:
+
+    FAQ.md
 ```
 
 
