@@ -17,7 +17,6 @@
 
 .. toctree::
     :maxdepth: 2
-    :numbered:
 
     FAQ.md
 ```
