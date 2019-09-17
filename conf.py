@@ -174,8 +174,8 @@ html_theme_options = {
         # ('PDF', 'https://zh.d2l.ai/d2l-zh.pdf', True, 'fas fa-file-pdf'),
         # ('Jupyter 记事本文件', 'https://zh.d2l.ai/d2l-zh.zip', True, 'fas fa-download'),
         # ('讨论', 'https://discuss.gluon.ai/c/lecture?order=views', True, 'fab fa-discourse'),
-        ('GitHub', 'https://github.com/tswsxk', True, 'fab fa-github'),
-        ('CodeBook', 'https://github.com/tswsxk/CodeBook/tree/master/Handbook4DSAI', True, 'fas fa-book'),
+        # ('GitHub', 'https://github.com/tswsxk', True, 'fab fa-github'),
+        # ('CodeBook', 'https://github.com/tswsxk/CodeBook/tree/master/Handbook4DSAI', True, 'fas fa-book'),
         ('HomePage', 'https://tswsxk.github.io', True, 'fas fa-home'),
     ],
     'show_footer': True
