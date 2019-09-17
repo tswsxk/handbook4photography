@@ -7,12 +7,18 @@
 
 #### 已知焦距，片幅，计算视角
 
-$ θ = 2 \times arctan{\frac{L}{2f}} $
+$$
+\theta = 2 \times arctan{\frac{L}{2f}} 
+$$
+
+
 
 
 #### 已知视角，片幅，计算焦距
 
-$ f = (L/2)/tan(θ/2) $
+$$
+f = \frac{\frac{L}{2}}{tan(\theta/2) }
+$$
 
 #### 等效焦距
 
